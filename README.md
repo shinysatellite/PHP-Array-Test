@@ -70,3 +70,13 @@ class TestScript
 
 (new TestScript())->execute();
 ```
+
+## How to Test
+
+1. Clone or download this repository to your local machine.
+2. Navigate to the directory containing the script.
+3. Run the script using the command line.
+
+```bash
+php test_script.php
+```
